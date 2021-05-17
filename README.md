@@ -5,12 +5,16 @@ Dane wygenerowane za pomocą https://next.json-generator.com/
 
 Przykładowe zapytania do API:
 
-Funkjonalnośc 1:
+Funkcjonalność 1:
+
 curl -X GET "http://localhost:8080/cargo/statistics?date=Tue%20May%2004%202021%2015%3A01%3A57%20GMT%2B0000%20(UTC)&flightNumber=8360" -H "accept: application/json"
+
 Funkcjonalność 2:
+
 curl -X GET "http://localhost:8080/flight/statistics?iataCode=KRK" -H "accept: application/json"
 
 Skrypty do generowania danych:
+
 [
   {'repeat(5, 10)' :{
  flightId: '{{index()}}',
