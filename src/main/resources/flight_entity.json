@@ -1,0 +1,44 @@
+[
+  {
+    "flightId": 0,
+    "flightNumber": 8360,
+    "departureAirportIATACode": "YYT",
+    "arrivalAirportIATACode": "KRK",
+    "departureDate": "Tue May 04 2021 15:01:57 GMT+0000 (UTC)"
+  },
+  {
+    "flightId": 1,
+    "flightNumber": 6642,
+    "departureAirportIATACode": "LAX",
+    "arrivalAirportIATACode": "MIT",
+    "departureDate": "Wed Oct 30 2019 11:11:10 GMT+0000 (UTC)"
+  },
+  {
+    "flightId": 2,
+    "flightNumber": 2771,
+    "departureAirportIATACode": "YYZ",
+    "arrivalAirportIATACode": "GDN",
+    "departureDate": "Mon Oct 21 2019 02:56:26 GMT+0000 (UTC)"
+  },
+  {
+    "flightId": 3,
+    "flightNumber": 3686,
+    "departureAirportIATACode": "YYZ",
+    "arrivalAirportIATACode": "LEW",
+    "departureDate": "Tue May 27 2014 17:45:49 GMT+0000 (UTC)"
+  },
+  {
+    "flightId": 4,
+    "flightNumber": 2693,
+    "departureAirportIATACode": "ANC",
+    "arrivalAirportIATACode": "LEW",
+    "departureDate": "Tue Feb 11 2020 13:39:54 GMT+0000 (UTC)"
+  },
+  {
+    "flightId": 5,
+    "flightNumber": 6353,
+    "departureAirportIATACode": "YYZ",
+    "arrivalAirportIATACode": "MIT",
+    "departureDate": "Sat Jan 23 2016 19:00:31 GMT+0000 (UTC)"
+  }
+]
